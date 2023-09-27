@@ -1,0 +1,37 @@
+.container{
+    width: 1400px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin-bottom: 10px;
+}
+.wrapper{
+   margin-left: 25px;
+}
+.inner{
+    display: flex;
+    flex-direction: column;
+    span {
+        margin-top: 5px;
+    }
+}
+.more{
+    color: #0e53e7;
+    width: 100px;
+    background-color: black;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    
+}
+.refresh{
+    color: #05ff05;
+    width: 100px;
+    background-color: black;
+    outline: none;
+    border: none;
+    font-size: 16px;
+    
+}

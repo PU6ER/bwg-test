@@ -1,0 +1,20 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 4px 5px;
+    height: fit-content;
+    background-color: #0e53e7;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    line-height: 20px;
+    word-wrap: break-word;
+}
+.url{
+    
+    text-overflow: ellipsis;
+    overflow: hidden;
+    
+}
